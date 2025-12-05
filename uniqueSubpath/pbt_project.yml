@@ -19,6 +19,19 @@ pipelines:
       outputs: []
     subgraphs: []
     dependencies: {}
+  pipelines/Amie_KoeppJuan_De_HattatimeMr__Bertram_Langworth:
+    name: Amie_KoeppJuan_De_HattatimeMr__Bertram_Langworth
+    description: null
+    author: szkyyxvg.mduuqh7c@3srgrjeg.com
+    mode: batch
+    artefactID: ''
+    language: sql
+    createdAt: '2025-12-05 20:57:34'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
 datasets: {}
 templates: {}
 jobs: {}
